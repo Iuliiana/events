@@ -14,7 +14,9 @@ const Layout = () => {
                     <a className="nav-link" href="/layouts">Layoutspage</a>
                 </li>
             </ul>
-            <Outlet/>
+            <div className="wrapper">
+                <Outlet/>
+            </div>
         </>
     );
 }
