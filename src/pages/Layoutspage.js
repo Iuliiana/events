@@ -5,4 +5,4 @@ const Layoutspage = () => {
     );
 }
 
-export { Layoutspage };
+export {Layoutspage};

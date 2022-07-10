@@ -5,9 +5,9 @@ function ProjectItem(props) {
 
     const {item} = props;
     return (
-        <div>
-            <img src="{item.img}" alt="{item.category}"/>
-        </div>
+        <li>
+            <img src={item.img} alt={item.category}/>
+        </li>
     );
 
 }

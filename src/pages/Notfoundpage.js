@@ -5,4 +5,4 @@ const Notfoundpage = () => {
     );
 }
 
-export { Notfoundpage };
+export {Notfoundpage};

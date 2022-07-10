@@ -1,4 +1,4 @@
-class ProjectItemModel{
+class ProjectItemModel {
     constructor(img, category) {
         this.img = img;
         this.category = category;

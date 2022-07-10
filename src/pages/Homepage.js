@@ -5,4 +5,4 @@ const Homepage = () => {
     );
 }
 
-export { Homepage };
+export {Homepage};
