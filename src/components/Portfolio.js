@@ -4,8 +4,8 @@ import Toolbar from "./Toolbar";
 
 
 function Portfolio(props) {
-    const filters = ["All", "Websites", "Flayers", "Business Cards"];
     const {projects} = props;
+    const filters = ["All", "Websites", "Flayers", "Business Cards"];
     const [filter, setFilter] = useState('All');
 
 
